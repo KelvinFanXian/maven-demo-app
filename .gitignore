@@ -1,0 +1,9 @@
+#maven缓存文件
+target/
+#eclipse缓存文件
+.classpath
+.project
+.settings/
+#svn缓存文件
+.svn
+
